@@ -23,20 +23,6 @@ An intelligent chatbot built using Python, Streamlit, and Google Gemini API that
 
 📁 Folder: `Project-1-AI-Memory-Chatbot`
 
----
-
-### 🚧 Project 2
-
-Coming Soon...
-
----
-
-### 🚧 Project 3
-
-Coming Soon...
-
----
-
 ## 🛠️ Skills Demonstrated
 
 - Python Development
@@ -50,6 +36,63 @@ Coming Soon...
 
 ---
 
+## ✍️ Project 2 — ToneCraft AI
+
+### AI Copywriting & Tone Transformer
+
+An AI-powered full-stack application that transforms simple product descriptions into professional, platform-specific marketing content using **Google Gemini AI**.
+
+## ✨ Features
+
+* 🤖 AI-generated marketing copy
+* 🎯 Platform-specific content generation:
+
+  * Instagram
+  * LinkedIn
+  * Email
+  * Facebook
+* ✍️ Multiple writing tones:
+
+  * Professional
+  * Luxury
+  * Friendly
+  * Persuasive
+  * Humorous
+* 🌡 AI creativity control using Temperature & Top-P
+* 📋 Copy and download generated content
+* ⚡ FastAPI REST API backend
+* 🌐 Fully deployed application
+
+## 🛠 Technologies Used
+
+* React + Vite
+* FastAPI
+* Python
+* Google Gemini 2.5 Flash API
+* Axios
+* CSS3
+* Vercel & Render
+
+## 🌐 Live Demo
+
+Frontend: https://ai-tone-transformer.vercel.app
+
+Backend API: https://project-2-backend-rbtk.onrender.com
+
+Swagger Docs: https://project-2-backend-rbtk.onrender.com/docs
+
+📁 Folder: `Project-2-AI-Copywriting-And-Tone-Transformer`
+
+## 🧠 Skills Demonstrated
+
+* Generative AI Development
+* Prompt Engineering
+* Gemini API Integration
+* Full-Stack Development
+* REST API Design
+* Cloud Deployment
+
+---  
 ## 👩‍💻 Author
 
 **Tanya Yadav**
@@ -58,4 +101,3 @@ Computer Science Student
 
 DecodeLabs Internship 2026
 
-⭐ More projects will be added as the internship progresses.
