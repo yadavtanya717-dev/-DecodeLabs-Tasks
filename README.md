@@ -1,6 +1,6 @@
-# 🚀 DecodeLabs Internship Projects
+# 🚀 Generative AI Projects
 
-Welcome to my DecodeLabs Internship repository!
+Welcome to my Generative AI repository!
 
 This repository contains all the projects I developed during my internship, focusing on Artificial Intelligence, Machine Learning, Python, and Generative AI.
 
